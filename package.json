@@ -1,4 +1,7 @@
 {
+  "homepage": "https://Harikrishnan6102001.github.io/ossa-base",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
